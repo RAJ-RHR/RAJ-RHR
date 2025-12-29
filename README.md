@@ -1,16 +1,41 @@
-## Hi there 👋
+# Raj Hansh Raj 👋
 
-<!--
-**RAJ-RHR/RAJ-RHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | Python | SQL | Azure | Power BI | ETL
 
-Here are some ideas to get you started:
+I am a Data Engineer with hands-on experience in building ETL pipelines, analytics solutions, and business dashboards.
+My focus is on reliable data ingestion, clean transformations, and analytics-ready data models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL  
+- **Cloud:** Microsoft Azure  
+- **Data Engineering:** Azure Data Factory, Azure SQL, ETL Pipelines  
+- **Analytics & BI:** Power BI, DAX  
+- **Others:** Git, REST APIs, Automation
+
+---
+
+## 🔧 What I Actually Do
+- Build end-to-end ETL pipelines (source → transform → load)
+- Work with structured data using SQL
+- Design data models for reporting & analytics
+- Create Power BI dashboards for business use cases
+- Automate repetitive data tasks using Python
+
+---
+
+## 📂 Featured Work
+- **Azure ETL Pipeline with Python & SQL**
+- **Analytics-Focused Data Warehouse**
+- **Advanced SQL Query & Optimization Scenarios**
+- **Power BI Business Dashboards**
+
+➡️ Check repositories below for implementations and documentation.
+
+---
+
+## 🔗 Links
+- Portfolio: https://rhr-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/raj-hansh-raj-rhr
+- Email: rajhansraj2000@gmail.com
